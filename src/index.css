@@ -17,3 +17,21 @@ body {
   --header-bgc: #008970;
   --button-bgc: #a5e6da;
 }
+
+.images_canvas{
+  /* background-color: red; */
+  height: 12vw;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 5vw;
+}
+
+.images_canvas img{
+  height: 12vw;
+  width: 15vw;
+  margin: 0 2vw;
+}
