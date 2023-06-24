@@ -4,9 +4,9 @@ This application is developed on given details:
 
 # To use the code:
 step 1) Clone it in your local enviorment <br>
-step 2) Change directory to project folder
-step 3) On terminal give commant npm init
-step 4) To launch - npm run dev
+step 2) Change directory to project folder <br>
+step 3) On terminal give commant npm init <br>
+step 4) To launch - npm run dev <br>
 
 
 # Design Requirements:
