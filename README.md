@@ -1,5 +1,8 @@
 # frontend-api-kalagato is an Ecommerce Cart Application
-This application is developed on given details:
+# Developed By:
+Naman Jain <br>
++91-8949098094 <br>
+namanjn619@gmail.com <br>
 ## Link of working application: https://frontend-api-kalagato.netlify.app/
 
 # To use the code:
@@ -8,7 +11,7 @@ step 2) Change directory to project folder <br>
 step 3) On terminal give commant npm init <br>
 step 4) To launch - npm run dev <br>
 
-
+This application is developed on given details:
 # Design Requirements:
 1. The web page should have a clean and modern design.
 2. The product list should be displayed in a grid or list view, with each product
