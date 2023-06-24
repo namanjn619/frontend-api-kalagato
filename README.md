@@ -3,7 +3,7 @@ This application is developed on given details:
 ## Link of working application: https://frontend-api-kalagato.netlify.app/
 
 # To use the code:
-step 1) Clone it in your local enviorment
+step 1) Clone it in your local enviorment <br>
 step 2) Change directory to project folder
 step 3) On terminal give commant npm init
 step 4) To launch - npm run dev
